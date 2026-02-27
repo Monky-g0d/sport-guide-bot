@@ -119,7 +119,7 @@ async def cb_personal(call: CallbackQuery):
         "💪 Индивидуальное ведение\n\n"
         "Хочешь персональные тренировки, питание и сопровождение?\n"
         "Пиши мне в личку 👇\n\n"
-        "👉 <a href='https://t.me/R1t3ziz'>@R1t3ziz</a>",
+        "👉 пока нету ",
         parse_mode="HTML",
         reply_markup=personal_kb()
     )
