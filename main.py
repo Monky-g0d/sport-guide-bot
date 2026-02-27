@@ -21,7 +21,7 @@ from psycopg2.extras import RealDictCursor
 load_dotenv()
 DATABASE_URL = os.getenv("DATABASE_URL")
 BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHANNEL_USERNAME = "@Lirkach0k"
+CHANNEL_USERNAME = "@Li1rexx"
 
 # --- Инициализация базы ---
 def init_db():
